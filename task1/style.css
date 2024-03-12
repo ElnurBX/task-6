@@ -1,0 +1,34 @@
+main{
+    width: 741px;
+
+    margin: auto;
+    background-color: orange;
+    height: 555px;
+}
+.border{
+    margin: auto;
+
+    width: 665px;
+    height: 501px;
+    background-color: yellow
+}
+.pading{
+    margin: auto;
+    height: 451px;
+    width: 600px;
+    
+    background-color: greenyellow
+}
+.comtemt{
+    margin: auto;
+    width: 540px;
+    height: 400px;
+    background-color: #ADD9E6;
+
+}
+
+img{
+    margin-top: 35px;
+    width: 540px;
+    height: 300px;
+}

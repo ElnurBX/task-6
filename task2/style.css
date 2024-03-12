@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #FAF3E3;
+}
+main{
+    margin:auto;
+    margin-top: 50px;
+    width: 80%;
+}
+.header{
+border-bottom:2px solid #A5CCD3 ;
+text-align: center;
+}
+.header img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.description{
+    margin-top: 10px;
+}
+.description h4{
+    color: red;
+    margin: 10px 0px;
+}
+.description p{
+    font-weight: 800;
+}
